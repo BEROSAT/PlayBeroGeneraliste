@@ -1,4 +1,4 @@
-# PlayBeroMixts
+# PlayBeroGeneraliste
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"American idol tv est une chaine televisee.","sourceCam":["https://d2h3esqi6ab3e7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amzcfijfnc8wu/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyOTZf/fashionmidi.png","titleCam":"AMERICAN IDOL TV"},
 
 {"descriptionCam":"UK got talent tv est une chaine televisee.","sourceCam":["https://dhkq1p9audihq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ty7fjsrdyiaa7/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM0MzUyOTZf/fashionmidi.png","titleCam":"UK GOT TALENT"},
